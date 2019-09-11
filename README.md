@@ -1,1 +1,1 @@
-# citytours
+This project is named as city tours.Built on ReactJS a javascript library.It includes various city images and their description with buttons to expand the description and close button to close the description.
